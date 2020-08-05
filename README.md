@@ -11,3 +11,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Mariano Di Modugno, dimo92
